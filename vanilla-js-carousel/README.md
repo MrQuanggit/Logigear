@@ -4,6 +4,8 @@ A sliding gallery made with css & vanilla js
 # Demo
 https://benkimo6i.github.io/vanilla-js-carousel/
 
+Link Original: https://www.cssscript.com/flip-element-carousel/
+
 # Getting started
 
 1. Clone or download repo.
